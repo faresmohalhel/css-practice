@@ -1,0 +1,14 @@
+.table-title {
+  font-weight: bold;
+}
+
+.table {
+  border-spacing: 10px;
+}
+
+.table-cell {
+  border: solid #000 1px;
+  border-radius: 5px;
+  padding: 3px 5px;
+  box-shadow: 3px 3px 7px #000;
+}

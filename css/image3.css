@@ -1,0 +1,16 @@
+.section-title {
+  display: inline-block;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+.text-section {
+  width: 500px;
+  border-top: solid #ccc 1px;
+}
+
+.blue-text {
+  color: ;
+}

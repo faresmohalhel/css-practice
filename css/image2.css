@@ -1,0 +1,34 @@
+body {
+  background-color: #fffff1;
+}
+
+main {
+  border-right: solid #000 5px;
+}
+
+.section-title {
+  font-weight: bold;
+}
+
+.articles {
+  margin-left: 10px;
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.article-paragraph {
+  width: 200px;
+  height: 90px;
+  background-color: #eaeaed;
+  overflow: hidden;
+}
+
+.horizontal-paragraph {
+  height: 50px;
+  overflow-y: scroll;
+  border-top: solid #000 3px;
+  border-bottom: solid #000 3px;
+}
