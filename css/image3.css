@@ -12,5 +12,25 @@
 }
 
 .blue-text {
-  color: ;
+  color: #6c5dff;
+}
+
+.orange-link {
+  color: orange;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.red-link {
+  color: red;
+}
+
+.removed-dots {
+  list-style: none;
 }
