@@ -1,0 +1,24 @@
+.bold {
+  font-weight: bold;
+}
+
+.container {
+  padding: 24px 0;
+  border-bottom: solid #ccc 1px;
+  overflow: auto;
+}
+
+.box {
+  width: 75px;
+  height: 25px;
+  border: solid #000 1px;
+  color: #fff;
+  float: left;
+  background-color: red;
+  margin: 0 6px;
+  text-align: center;
+}
+
+.box:nth-child(even) {
+  display: none;
+}
